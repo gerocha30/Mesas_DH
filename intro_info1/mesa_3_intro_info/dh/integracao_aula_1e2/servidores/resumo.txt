@@ -1,0 +1,1 @@
+Local onde são armazenados dados onde fazemos requests através do protocólo http e recebemos o arquivo solicitado.

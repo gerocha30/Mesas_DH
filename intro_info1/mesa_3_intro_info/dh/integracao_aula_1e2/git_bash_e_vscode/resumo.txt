@@ -1,0 +1,2 @@
+git bash é um terminal para executar linha de comando baseado em unix.
+vscode é um framework para desenvolvimento

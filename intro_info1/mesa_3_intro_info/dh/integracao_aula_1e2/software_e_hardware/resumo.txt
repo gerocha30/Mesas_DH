@@ -1,0 +1,2 @@
+Hardware são todos os componentes físicos do computador.
+Software sao todos os sistemas que rodam no computador.
