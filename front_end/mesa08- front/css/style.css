@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body{
+    background-color: rgb(7, 6, 6);
+    color: rgb(244, 241, 241);
+}
+h1{
+    font-family:"Roboto", sans-serif;
+    color:brown;
+}
+h2{
+    color: brown;
+}
+.banner {
+    font-family:"roboto";
+    width: 100%
+}
+p{ 
+    color: #bdbdbd;
+}
+a{
+    color: rgb(106, 42, 42);
+}
+
+.review-score{
+    background-color: yellow;
+    color: black;
+    border: 5px solid brown;
+    border-radius: 15px;
+}
